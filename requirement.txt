@@ -3,7 +3,7 @@ astor==0.7.1
 backcall==0.1.0
 beautifulsoup4==4.4.1
 bleach==3.0.2
-certifi==2018.11.29
+certifi==2022.12.7
 chardet==2.3.0
 command-not-found==0.3
 cycler==0.10.0
